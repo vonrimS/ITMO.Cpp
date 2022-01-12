@@ -1,0 +1,5 @@
+﻿  Main.cpp
+D:\CODING\__PLAYGROUND\Cpp\ConsoleAppCpp01\ConsoleAppCpp02\Main.cpp(424,8): warning C4804: '<=': unsafe use of type 'bool' in operation
+D:\CODING\__PLAYGROUND\Cpp\ConsoleAppCpp01\ConsoleAppCpp02\Main.cpp(428,13): warning C4804: '<=': unsafe use of type 'bool' in operation
+D:\CODING\__PLAYGROUND\Cpp\ConsoleAppCpp01\ConsoleAppCpp02\Main.cpp(443,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleAppCpp02.vcxproj -> D:\CODING\__PLAYGROUND\Cpp\ConsoleAppCpp01\Debug\ConsoleAppCpp02.exe
